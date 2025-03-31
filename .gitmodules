@@ -42,7 +42,8 @@
 	url = https://github.com/LoopKit/LoopSupport
 [submodule "G7SensorKit"]
 	path = G7SensorKit
-	url = https://github.com/LoopKit/G7SensorKit.git
+	url = https://github.com/motinis/G7SensorKit.git
+	branch = g7-local-reset-bluetooth
 [submodule "TidepoolService"]
 	path = TidepoolService
 	url = https://github.com/LoopKit/TidepoolService.git
