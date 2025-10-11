@@ -135,4 +135,7 @@
    <FileRef
       location = "group:LoopOnboarding/LoopOnboarding.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:TandemKit/TandemKit.xcodeproj">
+   </FileRef>
 </Workspace>
